@@ -1,6 +1,6 @@
 # Projects
 
-Control Of QuadCoptor Using Pixhawl FMU
+Control System Design Of QuadCoptor Using Pixhawl FMU 
 
 Vertical take-off and landing (VTOL) flying machines have evolved greatly in the past
 century and have attracted great attention from researchers in different disciplines due
