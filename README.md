@@ -10,8 +10,7 @@ engineers towards VTOL planes, some of them are:
 
     1. Very little space is needed for take off and landing
     2. Increased portability as compared to a fixed wing aircraft
-    3. VTOL drones, especially smaller drones are more suitable for aerial photography
-than fixed wing aircrafts
+    3. VTOL drones, especially smaller drones are more suitable for aerial photography than fixed wing aircrafts
 
   It is not easy to control a quadrotor due to its highly nonlinear dynamics, variable
 coupling and model uncertainties. The under actuation property of the quadrotor also
