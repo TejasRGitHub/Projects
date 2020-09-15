@@ -7,6 +7,7 @@ century and have attracted great attention from researchers in different discipl
 to their capabilities and vast variety of missions they can do as compared to fixed-wing
 Unmanned Aerial Vehicles (UAV). Out of many reasons that attracted researchers and
 engineers towards VTOL planes, some of them are:
+
     1. Very little space is needed for take off and landing
     2. Increased portability as compared to a fixed wing aircraft
     3. VTOL drones, especially smaller drones are more suitable for aerial photography
